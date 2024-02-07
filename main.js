@@ -1,5 +1,11 @@
-import viet from './assets/json/Viet.json' assert {type: 'json'};
-import ngoai from './assets/json/US-UK.json' assert {type: 'json'};
+
+
+fetch('./assets/json/Viet.json')
+    .then(response => response.json())
+    .then(function(viet){
+        fetch('./assets/json/US-UK.json')
+            .then(response => response.json())
+            .then(function(ngoai){      
 
 const VIE= Object.values(viet)
 const USUK = Object.values(ngoai)
@@ -240,3 +246,8 @@ const app = {
     },
 }
 app.start();
+
+
+            })
+    })
+
