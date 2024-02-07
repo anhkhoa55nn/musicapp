@@ -1,0 +1,111 @@
+{
+    "songs": [
+      {
+        "name": "Ánh Chiều Tàn",
+        "singer": "D Empty",
+        "path": "/assets/audio/Viet/AnhChieuTan.mp3",
+        "img": "/assets/img/Viet/AnhChieuTan.jpg"
+      },
+      {
+        "name": "Anh Nhớ Ra",
+        "singer": "Vũ",
+        "path": "/assets/audio/Viet/AnhNhoRa.mp3",
+        "img": "/assets/img/Viet/AnhNhoRa.jpg"
+      },{
+        "name": "Ánh Sao Và Bầu Trời",
+        "singer": "T.R.I x Cá",
+        "path": "/assets/audio/Viet/AnhSaoVaBauTroi.mp3",
+        "img": "/assets/img/Viet/AnhSao.jpg"
+      },{
+        "name": "Chuyện Đôi Ta",
+        "singer": "Emcee L (Da LAB) ft Muộii",
+        "path": "/assets/audio/Viet/ChuyenDoiTa.mp3",
+        "img": "/assets/img/Viet/ChuyenDoiTa.jpg"
+      },{
+        "name": "Đi Để Trở về",
+        "singer": "Soobin Hoàng Sơn",
+        "path": "/assets/audio/Viet/DiDeTroVe.mp3",
+        "img": "/assets/img/Viet/DiDeTroVe.jpg"
+      },{
+        "name": "Đi Về Nhà",
+        "singer": "Đen x JustaTee",
+        "path": "/assets/audio/Viet/DiVeNha.mp3",
+        "img": "/assets/img/Viet/DVN.jpg"
+      },{
+        "name": "Em Ổn Không",
+        "singer": "Trịnh Thiên Ân",
+        "path": "/assets/audio/Viet/EmOnKhong.mp3",
+        "img": "/assets/img/Viet/EmOnKhong.jpg"
+      },{
+        "name": "Hẹn Một Mai",
+        "singer": "Bùi Anh Tuấn",
+        "path": "/assets/audio/Viet/HenMotMai.mp3",
+        "img": "/assets/img/Viet/HenMotMai.jpg"
+      },{
+        "name": "Lạ Lùng",
+        "singer": "Vũ",
+        "path": "/assets/audio/Viet/LaLung.mp3",
+        "img": "/assets/img/Viet/LaLung.jpg"
+      },{
+        "name": "Lưu Luyến Sao Chia Tay",
+        "singer": "Try92",
+        "path": "/assets/audio/Viet/LuuLuyenSauChiaTay.mp3",
+        "img": "/assets/img/Viet/LuuLuyenSauChiaTay.jpg"
+      },{
+        "name": "Mãi Mãi Không Phải Anh",
+        "singer": "Thanh Bình",
+        "path": "/assets/audio/Viet/MaiMaiKhongPhaiAnh.mp3",
+        "img": "/assets/img/Viet/MaiMaiKhongPhaiAnh.jpg"
+      },{
+        "name": "Những Gì Anh Nói",
+        "singer": "Bozitt",
+        "path": "/assets/audio/Viet/NhungGiAnhNoi.mp3",
+        "img": "/assets/img/Viet/NhungGiAnhNoi.jpg"
+      },{
+        "name": "Những Lời Hứa Bỏ Quên",
+        "singer": "VŨ x DEAR JANE ",
+        "path": "/assets/audio/Viet/NhungLoiHuaBoQuen.mp3",
+        "img": "/assets/img/Viet/NhungLoiHuaBoQuen.jpg"
+      },{
+        "name": "Nói Đi Là Đi",
+        "singer": "Tăng Phúc",
+        "path": "/assets/audio/Viet/NoiDiLaDi.mp3",
+        "img": "/assets/img/Viet/NoiDiLaDi.jpg"
+      },{
+        "name": "Rồi Em Sẽ Gặp Một Chàng Trai Khác",
+        "singer": "The Masked Singer",
+        "path": "/assets/audio/Viet/RoiEmSeGapMotChangTraiKhac.mp3",
+        "img": "/assets/img/Viet/RoiEm.jpg"
+      },{
+        "name": "Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau",
+        "singer": "O.lew",
+        "path": "/assets/audio/Viet/RoiTaSeNgamPhaoHoaCungNhau.mp3",
+        "img": "/assets/img/Viet/RoiTa.jpg"
+      },{
+        "name": "Sài Gòn Đau Lòng Quá",
+        "singer": "Hứa Kim Tuyền x Hoàng Duyên",
+        "path": "/assets/audio/Viet/SaiGonDauLongQua.mp3",
+        "img": "/assets/img/Viet/SaiGon.jpg"
+      },{
+        "name": "Suýt Nữa Thì",
+        "singer": "Andiez",
+        "path": "/assets/audio/Viet/SuytNuaThi.mp3",
+        "img": "/assets/img/Viet/Suyt.jpg"
+      },{
+        "name": "Thanh Xuân",
+        "singer": "Da LAB",
+        "path": "/assets/audio/Viet/ThanhXuan.mp3",
+        "img": "/assets/img/Viet/TX.jpg"
+      },{
+        "name": "Trước Khi Em Tồn Tại",
+        "singer": "Việt Anh Cover",
+        "path": "/assets/audio/Viet/TruocKhiEmTonTai.mp3",
+        "img": "/assets/img/Viet/TKETT.jpg"
+      },{
+        "name": "Yêu Thương Ngày Đó",
+        "singer": "Soobin Hoàng Sơn",
+        "path": "/assets/audio/Viet/YêuThuongNgayDo.mp3",
+        "img": "/assets/img/Viet/YTND.jpg"
+      }
+    ]
+  }

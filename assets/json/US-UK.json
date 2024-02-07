@@ -1,0 +1,106 @@
+{
+    "songs": [
+      {
+        "name": "Attention",
+        "singer": "Charlie Puth",
+        "path": "/assets/audio/US-UK/AttentionCharliePuth.mp3",
+        "img": "/assets/img/US-UK/1.jpg"
+      },
+      {
+        "name": "Believer",
+        "singer": "Imagine Dragons",
+        "path": "/assets/audio/US-UK/Believer Imagine Dragons  .mp3",
+        "img": "/assets/img/US-UK/2.jpg"
+      },{
+        "name": "Faded",
+        "singer": "Alan Walker",
+        "path": "/assets/audio/US-UK/Faded.mp3",
+        "img": "/assets/img/US-UK/3.jpg"
+      },{
+        "name": "Hall Of Fame",
+        "singer": "The Script",
+        "path": "/assets/audio/US-UK/Hall Of Fame The Script  .mp3",
+        "img": "/assets/img/US-UK/4.jpg"
+      },{
+        "name": "Legends Never Die",
+        "singer": "Against The Current",
+        "path": "/assets/audio/US-UK/Legends Never Die ft Against The Current.mp3",
+        "img": "/assets/img/US-UK/5.jpg"
+      },{
+        "name": "Let Her Go",
+        "singer": "Passenger",
+        "path": "/assets/audio/US-UK/Let Her Go Passenger.mp3",
+        "img": "/assets/img/US-UK/6.jpg"
+      },{
+        "name": "Perfect",
+        "singer": "Ed Sheeran",
+        "path": "/assets/audio/US-UK/Perfect Ed Sheeran  .mp3",
+        "img": "/assets/img/US-UK/7.jpg"
+      },{
+        "name": "Reality",
+        "singer": "Lost Frequencies",
+        "path": "/assets/audio/US-UK/Reality-LostFrequencies.mp3",
+        "img": "/assets/img/US-UK/8.jpg"
+      },{
+        "name": "See You Again",
+        "singer": "Charlie Puth ft Wiz Khalifa",
+        "path": "/assets/audio/US-UK/See You Again ft Charlie Puth Wiz Khalifa  .mp3",
+        "img": "/assets/img/US-UK/1.jpg"
+      },{
+        "name": "Shape of You",
+        "singer": "Ed Sheeran",
+        "path": "/assets/audio/US-UK/Shape of You - Ed Sheeran  .mp3",
+        "img": "/assets/img/US-UK/9.jpg"
+      },{
+        "name": "Someone You Loved",
+        "singer": "Lewis Capaldi",
+        "path": "/assets/audio/US-UK/Someone You Loved Lewis Capaldi  .mp3",
+        "img": "/assets/img/US-UK/10.jpg"
+      },{
+        "name": "Symphony",
+        "singer": "Clean Bandit",
+        "path": "/assets/audio/US-UK/Symphony Clean Bandit.mp3",
+        "img": "/assets/img/US-UK/11.jpg"
+      },{
+        "name": "The Nights",
+        "singer": "Avicii",
+        "path": "/assets/audio/US-UK/TheNightsAvicii.mp3",
+        "img": "/assets/img/US-UK/12.jpg"
+      },{
+        "name": "Thinking Out Loud",
+        "singer": "Ed Sheeran",
+        "path": "/assets/audio/US-UK/Thinking Out Loud Ed Sheeran.mp3",
+        "img": "/assets/img/US-UK/13.jpg"
+      },{
+        "name": "TO THE MOON",
+        "singer": "Hooligan",
+        "path": "/assets/audio/US-UK/TO THE MOON  hooligan.mp3",
+        "img": "/assets/img/US-UK/14.jpg"
+      },{
+        "name": "Unstoppable",
+        "singer": "Sia Lyrics",
+        "path": "/assets/audio/US-UK/Unstoppable  Sia Lyrics  Vietsub .mp3",
+        "img": "/assets/img/US-UK/15.jpg"
+      },{
+        "name": "Waiting For Love",
+        "singer": "Avicii",
+        "path": "/assets/audio/US-UK/Waiting For Love Avicii  .mp3",
+        "img": "/assets/img/US-UK/16.jpg"
+      },{
+        "name": "Warriors",
+        "singer": "Imagine Dragons",
+        "path": "/assets/audio/US-UK/Warriors ft Imagine Dragons  .mp3",
+        "img": "/assets/img/US-UK/17.jpg"
+      },{
+        "name": "Way Back Home",
+        "singer": "SHAUN feat Conor Maynard",
+        "path": "/assets/audio/US-UK/WayBackHome.mp3",
+        "img": "/assets/img/US-UK/18.jpg"
+      },{
+        "name": "We-Dont Talk Anymore",
+        "singer": "Selena Gomez ft Charlie Puth",
+        "path": "/assets/audio/US-UK/We-Dont Talk Anymore feat Selena Gomez Charlie Puth  .mp3",
+        "img": "/assets/img/US-UK/19.jpg"
+      }
+    ]
+  }

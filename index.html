@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <title>Music App</title>
+</head>
+<body>
+    <div id="header">
+        <i class="fa-solid fa-music items"></i>
+        <div class="items">Nghe nhạc cùng Khoa</div>
+        <div class="choice">Chọn thể loại</div>
+    </div>
+    <div id="body">
+        <div class="cd">
+            <div class="cd-container">
+                <div class="cd-header">Now Playing</div>
+                <div class="cd-name">Song Name</div>
+                <div class="cd-thumb"></div>
+                <div class="cd-singer">Singer</div>
+                <audio src=""></audio>
+            </div>
+        </div>
+        <div class="playlist">
+            <div class="playlist-bar">
+                <div class="playlist-content number">#</div>
+                <div class="playlist-content songs incenter">Playlist</div>
+                <div class="playlist-content singer none">Singer</div>
+            </div>
+            <div class="playlist-list" style="height: 100%;">
+                
+            </div>
+        </div>
+    </div>
+    <div class="music">
+        <div class="btn-bar">
+            <div class="left">
+                <i class="fa-solid fa-repeat"></i>
+                <i class="fa-solid fa-shuffle"></i> 
+            </div>
+            <div class="center">
+                <i class="fa-solid fa-backward-step"></i>
+                <i class="fa-solid fa-circle-play"></i>
+                <i class="fa-solid fa-circle-pause" style="display: none;"></i>
+                <i class="fa-solid fa-forward-step"></i>
+            </div>
+            <div class="right">
+                <div class="volume-container" style="display: inline-block; width: 30px">
+                    <i class="fa-solid fa-volume-xmark" style="display: none;"></i>
+                    <i class="fa-solid fa-volume-high"></i>
+                </div>
+                <input type="range" class="volume-bar" step="0.5" value="100" min="0" max="100">
+            </div>
+        </div>
+        <div class="progress-bar">
+            <div class="now">00:00</div>
+            <input type="range" class="audio-bar" step="0.5" value="0" min="0" max="100">
+            <div class="full">00:00</div>
+        </div>
+    </div>
+    <div class="cover">
+        <div class="choice-table"> 
+            <div class="type viet">Nhạc Việt</div>
+            <div class="type USUK">US-UK</div>
+        </div>
+    </div>
+</body>
+<script type="module" src="/main.js"></script>
+</html>
