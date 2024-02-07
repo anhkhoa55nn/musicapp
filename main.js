@@ -1,6 +1,6 @@
+        alert(1)
 import viet from './assets/json/Viet.json' assert {type: 'json'};
 import ngoai from './assets/json/US-UK.json' assert {type: 'json'};
-        alert(1)
 
 const VIE= Object.values(viet)
 const USUK = Object.values(ngoai)
