@@ -59,14 +59,14 @@ const app = {
         choiceTable.onclick = function (e) {
             e.stopPropagation()
         }
-        document.querySelector('.type.viet').onclick = function () {
+        document.querySelector('.type.viet').ontouchstart = function () {
             app.render(VIE)
             app.choose = true
             cover.style.display = 'none'
             app.chooseSong(VIE)
             currentPlaylist = VIE
         }
-        document.querySelector('.type.USUK').onclick = function () {
+        document.querySelector('.type.USUK').ontouchstart = function () {
             app.render(USUK)
             app.choose = true
             cover.style.display = 'none'
