@@ -209,6 +209,9 @@ const app = {
     audioBar.addEventListener("mouseup", function(){
         isMouseDown = false
     })
+    audioBar.addEventListener("input", function () {
+        cdAudio.currentTime = (audioBar.value * cdAudio.duration) / 100;
+    });
     cdAudio.ontimeupdate = () => {
         if (!isMouseDown) {
             if(cdAudio.currentTime) {
