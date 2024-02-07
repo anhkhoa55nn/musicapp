@@ -235,9 +235,10 @@ const app = {
 
     //Bắt đầu
     start: function () {
-        alert(123)
         this.preStart()
         this.eventHandle()
     },
 }
-app.start()
+document.addEventListener('DOMContentLoaded', function() {
+    app.start();
+});
