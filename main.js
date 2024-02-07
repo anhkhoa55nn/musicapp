@@ -67,7 +67,7 @@ const app = {
             currentPlaylist = VIE
         }
         document.querySelector('.type.viet').addEventListener('touchstart', function (event) {
-            console.alert(1)
+            alert(1)
         });
         document.querySelector('.type.USUK').onclick = function () {
             app.render(USUK)
