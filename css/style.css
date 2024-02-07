@@ -243,4 +243,7 @@
     .btn-bar {
         justify-content: space-around;
     }
+   .choice-table {
+    width: 70%;
+   }
 }
