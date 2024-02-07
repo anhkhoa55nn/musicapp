@@ -66,13 +66,6 @@ const app = {
             app.chooseSong(VIE)
             currentPlaylist = VIE
         }
-        document.querySelector('.type.viet').addEventListener('touchstart', function () {
-            app.render(VIE)
-            app.choose = true
-            cover.style.display = 'none'
-            app.chooseSong(VIE)
-            currentPlaylist = VIE
-        });
         document.querySelector('.type.USUK').ontouchstart = function () {
             app.render(USUK)
             app.choose = true
@@ -80,13 +73,6 @@ const app = {
             app.chooseSong(USUK)
             currentPlaylist = USUK
         }
-        document.querySelector('.type.viet').addEventListener('touchstart', function () {
-            app.render(USUK)
-            app.choose = true
-            cover.style.display = 'none'
-            app.chooseSong(USUK)
-            currentPlaylist = USUK
-        });
     },
     playSong: function() {
         start.style.display = "none"
