@@ -66,6 +66,13 @@ const app = {
             app.chooseSong(VIE)
             currentPlaylist = VIE
         }
+        document.querySelector('.type.viet').addEventListener('touchstart', function () {
+            app.render(VIE)
+            app.choose = true
+            cover.style.display = 'none'
+            app.chooseSong(VIE)
+            currentPlaylist = VIE
+        });
         document.querySelector('.type.USUK').ontouchstart = function () {
             app.render(USUK)
             app.choose = true
