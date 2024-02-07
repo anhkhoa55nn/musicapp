@@ -1,4 +1,3 @@
-        alert(1)
 import viet from './assets/json/Viet.json' assert {type: 'json'};
 import ngoai from './assets/json/US-UK.json' assert {type: 'json'};
 
