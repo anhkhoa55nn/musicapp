@@ -1,5 +1,7 @@
+import viet from './assets/json/Viet.json' assert {type: 'json'};
+import ngoai from './assets/json/US-UK.json' assert {type: 'json'};
 
-
+app.start();
 const VIE= Object.values(viet)
 const USUK = Object.values(ngoai)
 const selectType = document.querySelector(".choice")
@@ -234,8 +236,8 @@ const app = {
 
     //Bắt đầu
     start: function () {
+        alert(1)
         this.preStart()
         this.eventHandle()
     },
 }
-app.start();
